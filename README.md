@@ -1,1 +1,2 @@
 # Curso Cypress
+## Automation
