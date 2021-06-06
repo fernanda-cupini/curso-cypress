@@ -1,2 +1,2 @@
 # Curso Cypress
-## Automation
+## Automation test
